@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="btn1">linear layout</string>
+    <string name="btn2">relative layout</string>
+    <string name="btn3">table layout</string>
+    <string name="btn4">frame layout</string>
+    <string name="btn5">absolute layout</string>
+    <string name="btn6">grid layout</string>
+
+</resources>
