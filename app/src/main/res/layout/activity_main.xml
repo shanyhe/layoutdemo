@@ -14,12 +14,26 @@
         android:id="@+id/title"
         android:padding="10dp"
         android:textSize="40sp"
-        android:layout_marginBottom="200dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.15" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/subtitle4cons"
+        android:id="@+id/subtitle4cons"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textColor="@color/red"
+        android:textAlignment="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/Guideline"
