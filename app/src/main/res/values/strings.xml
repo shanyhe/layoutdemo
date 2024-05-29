@@ -7,4 +7,7 @@
     <string name="btn4">frame layout</string>
     <string name="btn5">absol layout</string>
     <string name="btn6">gridd layout</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
 </resources>
